@@ -1,5 +1,5 @@
 # My-web-page-
-These is a Simple Webpage Created Using HTML and CSS.
+These is a Simple Webpage Created Using HTML CSS and JS.
 
 ## Features
 Basic HTML CSS & JS
@@ -11,7 +11,7 @@ CSS
 JavaScript
 
 ## Live Demo
-https://anandullegaddi25-tech.github.io/calculator-html-css-js/
+https://anandullegaddi25-tech.github.io/My-web-page/
 
 ## Author
 Anand Ullegaddi
